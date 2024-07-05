@@ -1,0 +1,430 @@
+{
+    "homepage": {
+        "button": {
+            "View_All_Courses": "View All Courses"
+        },
+        "home_head": {
+            "collection_of_courses": "We have the largest collection of courses",
+            "Courses": "Courses",
+            "Members": "Members",
+            "Authors": "Authors",
+            "Subjects": "Subjects"
+        },
+        "home_features": {
+            "Best_Stimulations": "Best Stimulations",
+            "Group_Seminars": "Group Seminars",
+            "Analyses_Syllabus": "Analyses Syllabus",
+            "Practical_Training": "Practical Training"
+        },
+        "home_courses": {
+            "Courses": "Courses",
+            "About_Courses": "About Courses",
+            "Student_Registration": "Student Registration and Administration Nemo enim ipsam voluptatem quia voluptas sit atur aut odit aut fugit, sed quia consequuntur magni res eos qui ratione voluptatem sequi nesciunt.",
+            "variations_of_passages": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised believable."
+        },
+        "home_subsection": {
+            "Free": "Free",
+            "Introduction_to_Calculus": "Introduction to Calculus",
+            "Mathematics": "Mathematics | 5 Curriculum",
+            "votes": "7 votes, average 4.57 out of 5"
+        },
+        "home_subsection_Basic_Laws": {
+            "Free": "Free",
+            "Basic_Laws_and_Policies": "Basic Laws and Policies",
+            "Law": "Law | 5 Curriculum",
+            "votes": "7 votes, average 3.57 out of 5"
+        },
+        "home_subsection_Healthcare_Delivery": {
+            "Free": "Free",
+            "Healthcare_Delivery": "Healthcare Delivery",
+            "Health": "Health | 4 Curriculum",
+            "votes": "7 votes, average 4.00 out of 5"
+        },
+        "home_subsection_Emerging_Trends": {
+            "Free": "Free",
+            "Emerging_Trends": "Emerging Trends and Technologies",
+            "Engineering": "Engineering | 4 Curriculum",
+            "votes": "4 votes, average 3.00 out of 5"
+        },
+        "home_subsection_General_Business_Law": {
+            "Free": "Free",
+            "General_Business_Law": "General Business Law",
+            "Business_Law": "Law | 5 Curriculum",
+            "votes": "7 votes, average 3.57 out of 5"
+        },
+        "home_subsection_Fitness_Training_Program": {
+            "Fitness_Training_Program": "Fitness Training Program",
+            "Health": "Health | 7 Curriculum",
+            "votes": "2 votes, average 4.00 out of 5"
+        },
+        "home_subsection_Architecture_Analysis": {
+            "Architecture": "Architecture Analysis & Design",
+            "Engineering": "Engineering | 2 Curriculum",
+            "votes": "246 votes, average 4.21 out of 5"
+        },
+        "home_subsection_Maintenance_Training": {
+            "Maintenance_Training": "Maintenance Training",
+            "Engineering": "Engineering | 4 Curriculum",
+            "votes": "4 votes, average 4.75 out of 5"
+        },
+        "home_subsection_Analysis_of_Algorithms": {
+            "Free": "Free",
+            "Algorithms": "Analysis of Algorithms",
+            "Mathematics": "Mathematics | 7 Curriculum",
+            "votes": "21 votes, average 4.05 out of 5"
+        },
+        "home_subsection_Processing_Digital_Signal": {
+            "Free": "Free",
+            "Processing_Digital_Signal": "Processing Digital Signal",
+            "Education": "Education | 5 Curriculum",
+            "votes": "51 votes, average 4.18 out of 5"
+        },
+        "home_subsection_Advanced_Programming": {
+            "Free": "Free",
+            "Advanced_Programming": "Advanced Programming",
+            "Education": "Education | 6 Curriculum",
+            "votes": "52 votes, average 3.92 out of 5"
+        },
+        "home_subsection_Power_Electronics": {
+            "Free": "Free",
+            "Power_Electronics": "Power Electronics",
+            "Education": "Education | 7 Curriculum",
+            "votes": "5 votes, average 3.80 out of 5"
+        },
+        "BLOG": {
+            "day": "30 Thu",
+            "blog_chat": "blog,chat"
+        },
+        "BLOG_Contrary_to_popularl": {
+            "Contrary_to_popular": "Contrary to popular",
+            "variations": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised..."
+        },
+        "BLOG_Omnis_voluptas_assumenda": {
+            "Omnis_voluptas_assumenda": "Omnis voluptas assumenda",
+            "variations": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised..."
+        },
+        "BLOG_Piece_of_classical": {
+            "Piece_of_classical": "Piece of classical",
+            "variations": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised..."
+        },
+        "second": {
+            "banner_html": "HTML",
+            "banner_css": "CSS",
+            "banner_android": "Android",
+            "banner_photoshop": "Photoshop",
+            "banner_jquery": "jQuery",
+            "banner_ruby": "Ruby",
+            "events_title": "UPCOMING EVENTS",
+            "events_welcome_batch": "Welcoming 25th Batch",
+            "events_date": "December 12, 2024 @ 8:00 am - December 13, 2025 @ 5:00 pm",
+            "events_location": "Peppard Hill, United States",
+            "contact_title": "GET IN TOUCH WITH US",
+            "contact_description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which Ipsum slightly believable",
+            "contact_email_placeholder": "Your Email Address",
+            "contact_subscribe": "SUBSCRIBE",
+            "process_title": "OUR PROCESS",
+            "process_step_01_title": "Step 01",
+            "process_step_01_subtitle": "Search for your course",
+            "process_step_01_description": "Nemo enim ipsam voluptatem quia voluptas sit atur aut odit aut fugit, sed quia consequuntur magni res.",
+            "process_step_02_title": "Step 02",
+            "process_step_02_subtitle": "Take a Sample Lesson",
+            "process_step_02_description": "Nemo enim ipsam voluptatem quia voluptas sit atur aut odit aut fugit, sed quia consequuntur magni res.",
+            "process_step_03_title": "Step 03",
+            "process_step_03_subtitle": "Preview the Syllabus",
+            "process_step_03_description": "Nemo enim ipsam voluptatem quia voluptas sit atur aut odit aut fugit, sed quia consequuntur magni res.",
+            "process_step_04_title": "Step 04",
+            "process_step_04_subtitle": "Purchase the Course",
+            "process_step_04_description": "Nemo enim ipsam voluptatem quia voluptas sit atur aut odit aut fugit, sed quia consequuntur magni res."
+        }
+    },
+    "teacher": {
+        "title": "Teachers",
+        "breadcrumb": {
+            "home": "Home",
+            "teachers": "Teachers"
+        },
+        "categories": {
+            "title": "Categories",
+            "uncategorized": "Uncategorized (7)"
+        },
+        "recent_comments": {
+            "title": "Recent Comments",
+            "comments": {
+                "1": "dtlmsele on Application Development",
+                "2": "dummy on Power Electronics",
+                "3": "kowsi on Video Game Technologies",
+                "4": "ram on Advanced Programming",
+                "5": "ram on Processing Digital Signal"
+            }
+        },
+        "archives": {
+            "title": "Archives",
+            "month": "November 2023"
+        },
+        "tags": {
+            "title": "Tags",
+            "tag1": "BLOG",
+            "tag2": "CHAT",
+            "tag3": "TIPS"
+        },
+        "chat": {
+            "title": "Chat",
+            "messages": {
+                "1": {
+                    "title": "Contrary to popular",
+                    "time": "30 Thu",
+                    "comments": "0"
+                },
+                "2": {
+                    "title": "Omnis voluptas assumenda",
+                    "time": "30 Thu",
+                    "comments": "0"
+                },
+                "3": {
+                    "title": "Piece of classical",
+                    "time": "30 Thu",
+                    "comments": "0"
+                },
+                "4": {
+                    "title": "Latin professor at Hampden",
+                    "time": "30 Thu",
+                    "comments": "0"
+                },
+                "5": {
+                    "title": "Latin words Ipsum",
+                    "time": "30 Thu",
+                    "comments": "0"
+                }
+            }
+        },
+        "teachers": {
+            "1": {
+                "name": "DAMIE GLENDELL",
+                "position": "Co-Director"
+            },
+            "2": {
+                "name": "DAMIE GLENDELL",
+                "position": "Co-Director"
+            },
+            "3": {
+                "name": "DAMIE GLENDELL",
+                "position": "Co-Director"
+            },
+            "4": {
+                "name": "DAMIE GLENDELL",
+                "position": "Co-Director"
+            }
+        }
+    },
+    "courses": {
+        "title": "Courses Page",
+        "heading": "Courses-Template",
+        "home": "Home",
+        "search": "Search courses...",
+        "categories": {
+            "title": "Course Categories",
+            "education": "Education",
+            "engineering": "Engineering",
+            "health": "Health",
+            "law": "Law",
+            "mathematics": "Mathematics"
+        },
+        "cost": {
+            "title": "Cost",
+            "all": "All",
+            "free": "Free",
+            "paid": "Paid"
+        },
+        "start_date": {
+            "title": "Start Date :",
+            "placeholder": "Start Date"
+        },
+        "view": {
+            "grid": "Grid",
+            "list": "List"
+        },
+        "order": {
+            "title": "Order by :",
+            "select": "Select Order",
+            "default": "Select Order",
+            "recent": "Recent Courses",
+            "highest": "Highest Rated",
+            "most_members": "Most Members",
+            "alphabetical": "Alphabetical"
+        },
+        "button": {
+            "view_course": "View Course",
+            "next": "Next"
+        },
+        "free": "Free",
+        "power_electronics": "Power Electronics",
+        "education_curriculum": "Education │ 7 Curriculum",
+        "votes_1": "(7 votes, average: 4.14 out of 5)",
+        "introduction_to_calculus": "Introduction to Calculus",
+        "mathematics_curriculum": "Mathematics │ 5 Curriculum",
+        "votes_2": "(9 votes, average: 4.67 out of 5)",
+        "basic_laws_and_policies": "Basic Laws and Policies",
+        "law_curriculum": "Law │ 5 Curriculum",
+        "votes_3": "(7 votes, average: 3.57 out of 5)",
+        "healthcare_delivery": "Healthcare Delivery",
+        "health_curriculum": "Health │ 4 Curriculum",
+        "votes_4": "(6 votes, average: 4.00 out of 5)",
+        "emerging_trends": "Emerging Trends and Technologies",
+        "engineering_curriculum": "Engineering │ 4 Curriculum",
+        "votes_5": "(4 votes, average: 3.00 out of 5)",
+        "general_business_law": "General Business Law",
+        "votes_6": "(3 votes, average: 3.67 out of 5)",
+        "time_1": "1d 1h 50m",
+        "time_2": "1m 21d 22h",
+        "time_3": "20d 18h 30m",
+        "time_4": "3d 2h 50m",
+        "time_5": "1m 16d 3h",
+        "time_6": "1m 25d 12h 50m"
+    },
+    "header": {
+        "home": "HOME",
+        "home_ii": "Home II",
+        "home_landing_page": "Home - Landing Page",
+        "home_subscription": "Home - Subscription",
+        "home_course_search": "Home - Course-Search",
+        "zoom_meeting": "Zoom Meeting",
+        "home_kids": "Home - kids",
+        "points_system": "Points System",
+        "course": "COURSE",
+        "courses_template": "Courses-Template",
+        "lessons": "Lessons",
+        "search_course": "Search-Course",
+        "membership": "Membership",
+        "courses_detail": "Courses Detail",
+        "detail_type_1": "Detail Type - 1",
+        "detail_type_2": "Detail Type - 2",
+        "detail_type_3": "Detail Type - 3",
+        "detail_type_4": "Detail Type - 4",
+        "pages": "PAGES",
+        "buddypress": "BuddyPress",
+        "members": "Members",
+        "site_wide_activity": "Site-Wide Activity",
+        "event": "Event",
+        "event_listing": "Event Listing",
+        "event_months": "Event Months",
+        "event_days": "Event Days",
+        "headers": "Headers",
+        "header_1": "Header-1",
+        "header_2": "Header-2",
+        "header_3": "Header-3",
+        "header_4": "Header-4",
+        "side_navigation": "Side-Navigation",
+        "about": "About",
+        "teachers": "Teachers",
+        "teachers_profile": "Teachers Profile",
+        "blog": "BLOG",
+        "i_column": "I COLUMN",
+        "fullwidth": "FullWidth",
+        "with_left_sidebar": "With Left Sidebar",
+        "with_right_sidebar": "With Right Sidebar",
+        "with_pagination": "With Pagination",
+        "ii_column": "II COLUMN",
+        "iii_column": "III COLUMN",
+        "thumb_image": "THUMB IMAGE",
+        "fullwidth_image": "FULLWIDTH IMAGE",
+        "gallery": "GALLERY",
+        "ii_column": "II COLUMN",
+        "iii_column": "III COLUMN",
+        "iv_column": "IV COLUMN",
+        "without_filter": "Without Filter",
+        "contact_us_now": "CONTACT US NOW",
+        "send_email": "SEND EMAIL",
+        "shop": "SHOP",
+        "popular_products": "POPULAR PRODUCTS",
+        "application_development": "Application Development",
+        "original_price_1": "$15.00",
+        "discounted_price_1": "$12.00",
+        "video_game_technologies": "Video Game Technologies",
+        "discounted_price_2": "$35.00",
+        "database_techniques": "Database Techniques",
+        "discounted_price_3": "$15.00",
+        "shop_now": "SHOP NOW",
+        "shop_four_column": "Shop Four Column",
+        "shop_three_column": "Shop Three Column",
+        "shop_two_column": "Shop Two Column",
+        "cart": "Cart",
+        "checkout": "Checkout",
+        "my_account": "MY ACCOUNT",
+        "view_order": "View Order",
+        "order_received": "Order Received",
+        "edit_account": "Edit Account",
+        "edit_my_address": "Edit My Address",
+        "contact": "CONTACT",
+        "contact_layout_2": "Contact - layout-2",
+        "contact_layout_3": "Contact - layout-3",
+        "vn": "VN",
+        "eng": "ENG"
+    },
+    "teacher_page": {
+        "title": "Teacher Page",
+        "teachers": "Teachers",
+        "home": "Home",
+        "categories": "Categories",
+        "uncategorized": "Uncategorized (7)",
+        "recent_comments": "Recent Comments",
+        "on": "on",
+        "archives": "Archives",
+        "tags": "Tags",
+        "blog": "BLOG",
+        "chat": "CHAT",
+        "tips": "TIPS",
+        "co_director": "Co-Director"
+    },
+    "footer": {
+        "about_us": "About Us",
+        "about_us_text_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et lobortis diam.",
+        "about_us_text_2": "Duis tellus enim, vestibulum eget varius id, vulputate ed mi. Nullam feugiat, diam quis interdum varius.",
+        "start_learning_now": "Start Learning Now",
+        "popular_courses": "Popular Courses",
+        "course_power_electronics": "Power Electronics",
+        "course_intro_to_calculus": "Introduction to Calculus",
+        "course_basic_laws": "Basic Laws and Policies",
+        "free": "Free",
+        "quick_links": "Quick Links",
+        "all_courses": "All Courses",
+        "summer_sessions": "Summer Sessions",
+        "professional_courses": "Professional Courses",
+        "privacy_policy": "Privacy Policy",
+        "terms_of_use": "Terms of Use",
+        "contact_us": "Contact Us",
+        "address": "123 Design Themes Inc. Mary Jane St, Sydney 2233, Australia",
+        "phone": "Phone: +11 (2) 7654 2233",
+        "fax": "Fax: +11 (5) 7654 2244",
+        "email": "Email: lms@gmail.com",
+        "copyright": "Copyright © 2020 LMS Theme All Rights Reserved | Design Themes"
+    },
+    "contact": {
+        "title": "Contact",
+        "layout3_title": "Contact-layout-3",
+        "home": "Home",
+        "layout3_breadcrumb": "Contact - layout-3",
+        "give_message": "Give Us A Message",
+        "placeholder_name": "Your Name",
+        "placeholder_email": "Email",
+        "placeholder_phone": "Phone",
+        "placeholder_message": "Message",
+        "error_message": "Please fill out this field.",
+        "send_email": "Send Email",
+        "form_error": "One or more fields have an error. Please check and try again.",
+        "contact_info": "Contact Info",
+        "address": "The Design Themes Inc. Mary Jane St, Sydney 2233 Australia.",
+        "phone": "+1 200 258 2145",
+        "fax": "+1 100 458 2345",
+        "mobile": "+91 12345 67890",
+        "email": "super@email.com",
+        "website": "google.com"
+    },
+    "chat": {
+        "contrary_to_popular": "Contrary to popular",
+        "omnis_voluptas_assumenda": "Omnis voluptas assumenda",
+        "piece_of_classical": "Piece of classical",
+        "latin_professor_at_hampden": "Latin professor at Hampden",
+        "latin_words_ipsum": "Latin words Ipsum",
+        "date_thu": "30 Thu"
+    }
+}

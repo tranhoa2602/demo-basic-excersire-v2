@@ -1,0 +1,167 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  --wdtFontTypo_Alt: "Raleway", sans-serif;
+  background-color: #fdf6ea;
+}
+
+.head {
+  background-color: #ff6900;
+  color: white;
+  max-width: 1920px;
+  height: auto;
+  padding: 20px;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.head h1 {
+  padding-left: 400px;
+}
+
+.head p {
+  padding-left: 400px;
+}
+
+.home {
+  transition: background-color 0.3s ease;
+}
+
+.home:hover {
+  color: #000;
+}
+
+.categories {
+  padding: 20px;
+  border: 2px solid #f5e9d4;
+}
+
+.recent {
+  margin-top: 20px;
+  padding: 20px;
+  border: 2px solid #f5e9d4;
+}
+
+.archives {
+  margin-top: 20px;
+  padding: 20px;
+  border: 2px solid #f5e9d4;
+}
+
+.tags {
+  margin-top: 20px;
+  padding: 20px;
+  border: 2px solid #f5e9d4;
+}
+
+.tags button {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  margin-left: 5px;
+}
+
+.chat {
+  margin-top: 20px;
+  padding: 20px;
+  border: 2px solid #f5e9d4;
+}
+
+.title-left {
+  padding-bottom: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+hr {
+  max-width: 30px;
+  font-weight: bold;
+}
+
+.col-3 span {
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.col-3 span:hover {
+  color: #838c48;
+}
+
+.col-3 .spec {
+  transition: background-color 0.3s ease;
+}
+
+.col-3 .spec:hover {
+  color: #838c48;
+}
+
+.tags .btn1 {
+  transition: background-color 0.3s ease;
+}
+
+.tags .btn1:hover {
+  background-color: #838c48;
+  color: white;
+  border: white;
+}
+
+img {
+  max-width: 170px;
+  max-height: 170px;
+}
+
+.col-9 .col-3 {
+  margin: 20px;
+  background-color: #f5e9d4;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  transition: background-color 0.3s ease;
+}
+
+.col-9 .col-3 i {
+  padding: 10px;
+  border-radius: 25px;
+}
+
+.spec2 {
+  padding-top: 20px;
+  color: #ff6900;
+  font-weight: bold;
+}
+
+.col-9 .col-3 hr {
+  max-width: 50px;
+  width: 100%;
+  margin: 0 auto;
+  padding-bottom: 10px;
+}
+
+.col-9 .col-3:hover {
+  background-color: #838c48;
+  color: white;
+}
+
+.col-3:hover .spec2 {
+  color: white;
+}
+
+.col-3:hover .spec2:hover {
+  color: black;
+}
+
+.col-9 .col-3 i:hover {
+  background-color: white;
+  color: black;
+}
+
+.container {
+  max-width: 2000px;
+}

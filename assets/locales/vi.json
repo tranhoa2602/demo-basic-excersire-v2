@@ -1,0 +1,430 @@
+{
+    "homepage": {
+        "button": {
+            "View_All_Courses": "Xem tất cả các khóa học"
+        },
+        "home_head": {
+            "collection_of_courses": "Chúng tôi có bộ sưu tập lớn nhất các khóa học.",
+            "Courses": "Khóa học",
+            "Members": "Thành viên",
+            "Authors": "Tác giả",
+            "Subjects": "Chủ đề"
+        },
+        "home_features": {
+            "Best_Stimulations": "Kích thích tốt nhất",
+            "Group_Seminars": "Hội thảo nhóm",
+            "Analyses_Syllabus": "Phân tích giáo trình",
+            "Practical_Training": "Đào tạo thực tiễn"
+        },
+        "home_courses": {
+            "Courses": "Các khóa học",
+            "About_Courses": "Giới thiệu về các khóa học",
+            "Student_Registration": "Đăng ký và quản lý sinh viên Nemo enim ipsam voluptatem quia voluptas sit atur aut odit aut fugit, sed quia consequuntur magni res eos qui ratione voluptatem sequi nesciunt.",
+            "variations_of_passages": "Có nhiều phiên bản khác nhau của Lorem Ipsum, nhưng phần lớn đã được thay đổi ở một số hình thức, bằng cách thêm yếu tố hài hước hoặc ngẫu nhiên hóa để trở nên đáng tin hơn."
+        },
+        "home_subsection": {
+            "Free": "Miễn phí",
+            "Introduction_to_Calculus": "Giới thiệu về phép tính",
+            "Mathematics": "Toán học | 5 Chương trình giảng dạy",
+            "votes": "7 phiếu bầu, trung bình 4,57 trên 5"
+        },
+        "home_subsection_Basic_Laws": {
+            "Free": "Miễn phí",
+            "Basic_Laws_and_Policies": "Luật và Chính sách cơ bản",
+            "Law": "Luật | 5 Chương trình giảng dạy",
+            "votes": "7 phiếu bầu, trung bình 3,57 trên 5"
+        },
+        "home_subsection_Healthcare_Delivery": {
+            "Free": "Miễn phí",
+            "Healthcare_Delivery": "Cung cấp dịch vụ chăm sóc sức khỏe",
+            "Health": "Sức khỏe | 4 Chương trình giảng dạy",
+            "votes": "7 phiếu bầu, trung bình 4,00 trên 5"
+        },
+        "home_subsection_Emerging_Trends": {
+            "Free": "Miễn phí",
+            "Emerging_Trends": "Xu hướng và công nghệ mới nổi",
+            "Engineering": "Kỹ thuật | 4 Chương trình giảng dạy",
+            "votes": "7 phiếu bầu, trung bình 3,00 trên 5"
+        },
+        "home_subsection_General_Business_Law": {
+            "Free": "Miễn phí",
+            "General_Business_Law": "Luật kinh doanh chung",
+            "Business_Law": "Luật | 5 Chương trình giảng dạy",
+            "votes": "7 phiếu bầu, trung bình 3,57 trên 5"
+        },
+        "home_subsection_Fitness_Training_Program": {
+            "Fitness_Training_Program": "Chương trình đào tạo thể hình",
+            "Health": "Sức khỏe | 7 Chương trình giảng dạy",
+            "votes": "2 phiếu bầu, trung bình 4,00 trên 5"
+        },
+        "home_subsection_Architecture_Analysis": {
+            "Architecture": "Phân tích & Thiết kế Kiến trúc",
+            "Engineering": "Kỹ thuật | 2 Chương trình giảng dạy",
+            "votes": "246 phiếu bầu, trung bình 4,21 trên 5"
+        },
+        "home_subsection_Maintenance_Training": {
+            "Maintenance_Training": "Đào tạo bảo trì",
+            "Engineering": "Kỹ thuật | 4 Chương trình giảng dạy",
+            "votes": "4 phiếu bầu, trung bình 4,75 trên 5"
+        },
+        "home_subsection_Analysis_of_Algorithms": {
+            "Free": "Miễn phí",
+            "Algorithms": "Phân tích thuật toán",
+            "Mathematics": "Toán học | 7 Chương trình giảng dạy",
+            "votes": "21 phiếu bầu, trung bình 4,05 trên 5"
+        },
+        "home_subsection_Processing_Digital_Signal": {
+            "Free": "Miễn phí",
+            "Processing_Digital_Signal": "Xử lý tín hiệu số",
+            "Education": "Giáo dục | 5 Chương trình giảng dạy",
+            "votes": "51 phiếu bầu, trung bình 4,18 trên 5"
+        },
+        "home_subsection_Advanced_Programming": {
+            "Free": "Miễn phí",
+            "Advanced_Programming": "Lập trình nâng cao",
+            "Education": "Giáo dục | 6 Chương trình giảng dạy",
+            "votes": "52 phiếu bầu, trung bình 3,92 trên 5"
+        },
+        "home_subsection_Power_Electronics": {
+            "Free": "Miễn phí",
+            "Power_Electronics": "Điện tử công suất",
+            "Education": "Giáo dục | 7 Chương trình giảng dạy",
+            "votes": "5 phiếu bầu, trung bình 3,80 trên 5"
+        },
+        "BLOG": {
+            "day": "thứ năm ngày 30",
+            "blog_chat": "blog, trò chuyện"
+        },
+        "BLOG_Contrary_to_popularl": {
+            "Contrary_to_popular": "Trái ngược với phổ biến",
+            "variations": "Có nhiều phiên bản khác nhau của Lorem Ipsum, nhưng phần lớn đã bị thay đổi ở một số hình thức, bằng cách thêm yếu tố hài hước hoặc ngẫu nhiên..."
+        },
+        "BLOG_Omnis_voluptas_assumenda": {
+            "Omnis_voluptas_assumenda": "Mảnh cổ điển",
+            "variations": "Có nhiều phiên bản khác nhau của Lorem Ipsum, nhưng phần lớn đã bị thay đổi ở một số hình thức, bằng cách thêm yếu tố hài hước hoặc ngẫu nhiên..."
+        },
+        "BLOG_Piece_of_classical": {
+            "Piece_of_classical": "Mảnh cổ điển",
+            "variations": "Có nhiều phiên bản khác nhau của Lorem Ipsum, nhưng phần lớn đã bị thay đổi ở một số hình thức, bằng cách thêm yếu tố hài hước hoặc ngẫu nhiên..."
+        },
+        "second": {
+            "banner_html": "HTML",
+            "banner_css": "CSS",
+            "banner_android": "Android",
+            "banner_photoshop": "Photoshop",
+            "banner_jquery": "jQuery",
+            "banner_ruby": "Ruby",
+            "events_title": "SỰ KIỆN SẮP TỚI",
+            "events_welcome_batch": "Chào mừng khóa học thứ 25",
+            "events_date": "Ngày 12 tháng 12, 2024 @ 8:00 sáng - Ngày 13 tháng 12, 2025 @ 5:00 chiều",
+            "events_location": "Peppard Hill, Hoa Kỳ",
+            "contact_title": "LIÊN HỆ VỚI CHÚNG TÔI",
+            "contact_description": "Có rất nhiều biến thể của các đoạn văn Lorem Ipsum có sẵn, nhưng phần lớn đã bị thay đổi theo một số hình thức, bằng cách tiêm vào hài hước, hoặc các từ ngẫu nhiên mà Ipsum hơi đáng tin",
+            "contact_email_placeholder": "Địa chỉ Email của bạn",
+            "contact_subscribe": "ĐĂNG KÝ",
+            "process_title": "QUY TRÌNH CỦA CHÚNG TÔI",
+            "process_step_01_title": "Bước 01",
+            "process_step_01_subtitle": "Tìm kiếm khóa học của bạn",
+            "process_step_01_description": "Nemo enim ipsam voluptatem quia voluptas sit atur aut odit aut fugit, sed quia consequuntur magni res.",
+            "process_step_02_title": "Bước 02",
+            "process_step_02_subtitle": "Tham gia Bài học Mẫu",
+            "process_step_02_description": "Nemo enim ipsam voluptatem quia voluptas sit atur aut odit aut fugit, sed quia consequuntur magni res.",
+            "process_step_03_title": "Bước 03",
+            "process_step_03_subtitle": "Xem trước Giáo trình",
+            "process_step_03_description": "Nemo enim ipsam voluptatem quia voluptas sit atur aut odit aut fugit, sed quia consequuntur magni res.",
+            "process_step_04_title": "Bước 04",
+            "process_step_04_subtitle": "Mua Khóa học",
+            "process_step_04_description": "Nemo enim ipsam voluptatem quia voluptas sit atur aut odit aut fugit, sed quia consequuntur magni res."
+        }
+    },
+    "teacher": {
+        "title": "Giáo viên",
+        "breadcrumb": {
+            "home": "Trang chủ",
+            "teachers": "Giáo viên"
+        },
+        "categories": {
+            "title": "Danh mục",
+            "uncategorized": "Chưa phân loại (7)"
+        },
+        "recent_comments": {
+            "title": "Nhận xét gần đây",
+            "comments": {
+                "1": "dtlmsele về Phát triển Ứng dụng",
+                "2": "dummy về Điện tử Công suất",
+                "3": "kowsi về Công nghệ Trò chơi Video",
+                "4": "ram về Lập trình Nâng cao",
+                "5": "ram về Xử lý Tín hiệu Số"
+            }
+        },
+        "archives": {
+            "title": "Lưu trữ",
+            "month": "Tháng 11, 2023"
+        },
+        "tags": {
+            "title": "Thẻ",
+            "tag1": "BLOG",
+            "tag2": "CHAT",
+            "tag3": "MẸO"
+        },
+        "chat": {
+            "title": "Trò chuyện",
+            "messages": {
+                "1": {
+                    "title": "Trái với phổ biến",
+                    "time": "Thứ năm ngày 30",
+                    "comments": "0"
+                },
+                "2": {
+                    "title": "Omnis voluptas assumenda",
+                    "time": "Thứ năm ngày 30",
+                    "comments": "0"
+                },
+                "3": {
+                    "title": "Mảnh cổ điển",
+                    "time": "Thứ năm ngày 30",
+                    "comments": "0"
+                },
+                "4": {
+                    "title": "Giáo sư Latin tại Hampden",
+                    "time": "Thứ năm ngày 30",
+                    "comments": "0"
+                },
+                "5": {
+                    "title": "Từ Latin Ipsum",
+                    "time": "Thứ năm ngày 30",
+                    "comments": "0"
+                }
+            }
+        },
+        "teachers": {
+            "1": {
+                "name": "DAMIE GLENDELL",
+                "position": "Đồng Giám đốc"
+            },
+            "2": {
+                "name": "DAMIE GLENDELL",
+                "position": "Đồng Giám đốc"
+            },
+            "3": {
+                "name": "DAMIE GLENDELL",
+                "position": "Đồng Giám đốc"
+            },
+            "4": {
+                "name": "DAMIE GLENDELL",
+                "position": "Đồng Giám đốc"
+            }
+        }
+    },
+    "courses": {
+        "title": "Trang khóa học",
+        "heading": "Mẫu khóa học",
+        "home": "Trang chủ",
+        "search": "Tìm kiếm khóa học...",
+        "categories": {
+            "title": "Danh mục khóa học",
+            "education": "Giáo dục",
+            "engineering": "Kỹ thuật",
+            "health": "Sức khỏe",
+            "law": "Luật",
+            "mathematics": "Toán học"
+        },
+        "cost": {
+            "title": "Chi phí",
+            "all": "Tất cả",
+            "free": "Miễn phí",
+            "paid": "Trả phí"
+        },
+        "start_date": {
+            "title": "Ngày bắt đầu :",
+            "placeholder": "Ngày bắt đầu"
+        },
+        "view": {
+            "grid": "Lưới",
+            "list": "Danh sách"
+        },
+        "order": {
+            "title": "Sắp xếp theo :",
+            "select": "Chọn thứ tự",
+            "default": "Chọn thứ tự",
+            "recent": "Khóa học mới nhất",
+            "highest": "Đánh giá cao nhất",
+            "most_members": "Nhiều thành viên nhất",
+            "alphabetical": "Thứ tự chữ cái"
+        },
+        "button": {
+            "view_course": "Xem khóa học",
+            "next": "Tiếp theo"
+        },
+        "free": "Miễn phí",
+        "power_electronics": "Điện tử công suất",
+        "education_curriculum": "Giáo dục │ 7 chương trình giảng dạy",
+        "votes_1": "(7 phiếu, trung bình: 4.14 trên 5)",
+        "introduction_to_calculus": "Giới thiệu về Phép tính",
+        "mathematics_curriculum": "Toán học │ 5 chương trình giảng dạy",
+        "votes_2": "(9 phiếu, trung bình: 4.67 trên 5)",
+        "basic_laws_and_policies": "Các luật và chính sách cơ bản",
+        "law_curriculum": "Luật │ 5 chương trình giảng dạy",
+        "votes_3": "(7 phiếu, trung bình: 3.57 trên 5)",
+        "healthcare_delivery": "Cung cấp dịch vụ chăm sóc sức khỏe",
+        "health_curriculum": "Sức khỏe │ 4 chương trình giảng dạy",
+        "votes_4": "(6 phiếu, trung bình: 4.00 trên 5)",
+        "emerging_trends": "Xu hướng và công nghệ mới nổi",
+        "engineering_curriculum": "Kỹ thuật │ 4 chương trình giảng dạy",
+        "votes_5": "(4 phiếu, trung bình: 3.00 trên 5)",
+        "general_business_law": "Luật kinh doanh tổng quát",
+        "votes_6": "(3 phiếu, trung bình: 3.67 trên 5)",
+        "time_1": "1 ngày 1 giờ 50 phút",
+        "time_2": "1 tháng 21 ngày 22 giờ",
+        "time_3": "20 ngày 18 giờ 30 phút",
+        "time_4": "3 ngày 2 giờ 50 phút",
+        "time_5": "1 tháng 16 ngày 3 giờ",
+        "time_6": "1 tháng 25 ngày 12 giờ 50 phút"
+    },
+    "header": {
+        "home": "TRANG CHỦ",
+        "home_ii": "Trang Chủ II",
+        "home_landing_page": "Trang Chủ - Trang Đích",
+        "home_subscription": "Trang Chủ - Đăng Ký",
+        "home_course_search": "Trang Chủ - Tìm Khóa Học",
+        "zoom_meeting": "Cuộc Họp Zoom",
+        "home_kids": "Trang Chủ - Trẻ Em",
+        "points_system": "Hệ Thống Điểm",
+        "course": "KHÓA HỌC",
+        "courses_template": "Mẫu Khóa Học",
+        "lessons": "Bài Học",
+        "search_course": "Tìm Khóa Học",
+        "membership": "Hội Viên",
+        "courses_detail": "Chi Tiết Khóa Học",
+        "detail_type_1": "Loại Chi Tiết - 1",
+        "detail_type_2": "Loại Chi Tiết - 2",
+        "detail_type_3": "Loại Chi Tiết - 3",
+        "detail_type_4": "Loại Chi Tiết - 4",
+        "pages": "TRANG",
+        "buddypress": "BuddyPress",
+        "members": "Thành Viên",
+        "site_wide_activity": "Hoạt Động Toàn Trang",
+        "event": "SỰ KIỆN",
+        "event_listing": "Danh Sách Sự Kiện",
+        "event_months": "Tháng Sự Kiện",
+        "event_days": "Ngày Sự Kiện",
+        "headers": "TIÊU ĐỀ",
+        "header_1": "Tiêu Đề-1",
+        "header_2": "Tiêu Đề-2",
+        "header_3": "Tiêu Đề-3",
+        "header_4": "Tiêu Đề-4",
+        "side_navigation": "Điều Hướng Bên",
+        "about": "Giới Thiệu",
+        "teachers": "Giáo Viên",
+        "teachers_profile": "Hồ Sơ Giáo Viên",
+        "blog": "BLOG",
+        "i_column": "CỘT I",
+        "fullwidth": "Toàn Chiều Rộng",
+        "with_left_sidebar": "Có Thanh Bên Trái",
+        "with_right_sidebar": "Có Thanh Bên Phải",
+        "with_pagination": "Có Phân Trang",
+        "ii_column": "CỘT II",
+        "iii_column": "CỘT III",
+        "thumb_image": "HÌNH THUMB",
+        "fullwidth_image": "HÌNH TOÀN CHIỀU RỘNG",
+        "gallery": "BỘ SƯU TẬP",
+        "ii_column": "CỘT II",
+        "iii_column": "CỘT III",
+        "iv_column": "CỘT IV",
+        "without_filter": "Không Có Bộ Lọc",
+        "contact_us_now": "LIÊN HỆ VỚI CHÚNG TÔI NGAY",
+        "send_email": "GỬI EMAIL",
+        "shop": "MUA SẮM",
+        "popular_products": "SẢN PHẨM PHỔ BIẾN",
+        "application_development": "Phát Triển Ứng Dụng",
+        "original_price_1": "$15.00",
+        "discounted_price_1": "$12.00",
+        "video_game_technologies": "Công Nghệ Trò Chơi Video",
+        "discounted_price_2": "$35.00",
+        "database_techniques": "Kỹ Thuật Cơ Sở Dữ Liệu",
+        "discounted_price_3": "$15.00",
+        "shop_now": "MUA NGAY",
+        "shop_four_column": "Mua Sắm Bốn Cột",
+        "shop_three_column": "Mua Sắm Ba Cột",
+        "shop_two_column": "Mua Sắm Hai Cột",
+        "cart": "Giỏ Hàng",
+        "checkout": "Thanh Toán",
+        "my_account": "TÀI KHOẢN CỦA TÔI",
+        "view_order": "Xem Đơn Hàng",
+        "order_received": "Đã Nhận Đơn Hàng",
+        "edit_account": "Chỉnh Sửa Tài Khoản",
+        "edit_my_address": "Chỉnh Sửa Địa Chỉ",
+        "contact": "LIÊN HỆ",
+        "contact_layout_2": "Liên Hệ - Bố Cục 2",
+        "contact_layout_3": "Liên Hệ - Bố Cục 3",
+        "vn": "VN",
+        "eng": "ENG"
+    },
+    "teacher_page": {
+        "title": "Trang Giáo Viên",
+        "teachers": "Giáo Viên",
+        "home": "Trang Chủ",
+        "categories": "Danh Mục",
+        "uncategorized": "Chưa Phân Loại (7)",
+        "recent_comments": "Bình Luận Gần Đây",
+        "on": "trên",
+        "archives": "Lưu Trữ",
+        "tags": "Thẻ",
+        "blog": "BLOG",
+        "chat": "TRÒ CHUYỆN",
+        "tips": "MẸO",
+        "co_director": "Đồng Giám Đốc"
+    },
+    "footer": {
+        "about_us": "Về Chúng Tôi",
+        "about_us_text_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et lobortis diam.",
+        "about_us_text_2": "Duis tellus enim, vestibulum eget varius id, vulputate ed mi. Nullam feugiat, diam quis interdum varius.",
+        "start_learning_now": "Bắt Đầu Học Ngay",
+        "popular_courses": "Các Khóa Học Phổ Biến",
+        "course_power_electronics": "Điện Tử Công Suất",
+        "course_intro_to_calculus": "Giới Thiệu Về Giải Tích",
+        "course_basic_laws": "Luật Và Chính Sách Cơ Bản",
+        "free": "Miễn Phí",
+        "quick_links": "Liên Kết Nhanh",
+        "all_courses": "Tất Cả Các Khóa Học",
+        "summer_sessions": "Các Phiên Học Hè",
+        "professional_courses": "Các Khóa Học Chuyên Nghiệp",
+        "privacy_policy": "Chính Sách Bảo Mật",
+        "terms_of_use": "Điều Khoản Sử Dụng",
+        "contact_us": "Liên Hệ Với Chúng Tôi",
+        "address": "123 Thiết Kế Chủ Đề Inc. Mary Jane St, Sydney 2233, Australia",
+        "phone": "Điện Thoại: +11 (2) 7654 2233",
+        "fax": "Fax: +11 (5) 7654 2244",
+        "email": "Email: lms@gmail.com",
+        "copyright": "Bản Quyền © 2020 LMS Theme. Đã Đăng Ký Bản Quyền | Thiết Kế Chủ Đề"
+    },
+    "contact": {
+        "title": "Liên Hệ",
+        "layout3_title": "Liên Hệ - Giao Diện 3",
+        "home": "Trang Chủ",
+        "layout3_breadcrumb": "Liên Hệ - Giao Diện 3",
+        "give_message": "Gửi Tin Nhắn Cho Chúng Tôi",
+        "placeholder_name": "Tên Của Bạn",
+        "placeholder_email": "Email",
+        "placeholder_phone": "Điện Thoại",
+        "placeholder_message": "Tin Nhắn",
+        "error_message": "Vui lòng điền vào trường này.",
+        "send_email": "Gửi Email",
+        "form_error": "Có một hoặc nhiều trường có lỗi. Vui lòng kiểm tra và thử lại.",
+        "contact_info": "Thông Tin Liên Hệ",
+        "address": "The Design Themes Inc. Mary Jane St, Sydney 2233 Australia.",
+        "phone": "+1 200 258 2145",
+        "fax": "+1 100 458 2345",
+        "mobile": "+91 12345 67890",
+        "email": "super@email.com",
+        "website": "google.com"
+    },
+    "chat": {
+        "contrary_to_popular": "Trái với ý kiến phổ biến",
+        "omnis_voluptas_assumenda": "Omnis voluptas assumenda",
+        "piece_of_classical": "Tác phẩm kinh điển",
+        "latin_professor_at_hampden": "Giáo sư Latin tại Hampden",
+        "latin_words_ipsum": "Từ tiếng Latin Ipsum",
+        "date_thu": "Thứ năm ngày 30"
+    }
+}

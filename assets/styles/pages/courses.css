@@ -1,0 +1,286 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font: "Open-Sans", sans-serif;
+  background-color: #fdf6ea;
+}
+
+.head {
+  background-color: #ff6900;
+  color: white;
+  padding: 20px;
+  max-width: 1920px;
+}
+
+.head h1 {
+  padding-left: 300px;
+}
+
+.head p {
+  padding-left: 300px;
+}
+
+.search-form {
+  margin-top: 20px;
+  background-color: #f5e9d4;
+  padding: 20px;
+  position: relative;
+}
+
+.search-icon {
+  position: absolute;
+  top: 55%;
+  right: 25px;
+  transform: translateY(-50%);
+  border: 1px solid white;
+  width: 45px;
+  height: 45px;
+  background-color: white;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-icon i {
+  font-size: 18px;
+}
+
+ul {
+  list-style: none;
+}
+
+.col-3 p {
+  font-weight: bold;
+}
+
+.categories {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #f5e9d4;
+}
+
+.categories p {
+  border-bottom: 1px solid black;
+  padding-bottom: 5px;
+  display: inline-block;
+}
+
+.cost {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #f5e9d4;
+}
+
+.cost p {
+  border-bottom: 1px solid black;
+  padding-bottom: 5px;
+  display: inline-block;
+}
+
+.date-form {
+  margin-top: 20px;
+  background-color: #f5e9d4;
+  padding: 20px;
+  position: relative;
+}
+
+.date-icon {
+  position: absolute;
+  top: 70%;
+  right: 25px;
+  transform: translateY(-50%);
+  border: 1px solid white;
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#form2 p {
+  border-bottom: 1px solid black;
+  padding-bottom: 5px;
+  display: inline-block;
+}
+
+.col-9 .button-head {
+  margin-top: 20px;
+}
+
+.col-6 .left {
+  width: 120px;
+  height: 45px;
+  text-align: center;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.col-6 .right {
+  width: 120px;
+  height: 45px;
+  text-align: center;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.custom-order {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.order {
+  text-align: right;
+}
+
+.order p {
+  margin-top: 30px;
+}
+
+.img-content {
+  width: 280px;
+  height: 180px;
+}
+
+.content h3 {
+  color: #da853d;
+  font-size: 24px;
+}
+
+.content .h3 {
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.content .star2 {
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+}
+
+.content .star2 p {
+  padding-top: 15px;
+}
+
+.content .star2 .green {
+  transition: background-color 0.3s ease;
+  color: gold;
+}
+
+.content .star2 .green:hover {
+  color: greenyellow;
+}
+
+.button-foot {
+  text-align: center;
+}
+
+.button-foot button {
+  padding: 5px 15px;
+}
+
+.content hr {
+  height: 3px;
+  border: none;
+  background-color: #000;
+}
+
+button {
+  cursor: pointer;
+}
+
+.clicked {
+  background-color: #838c48 !important;
+  color: white !important;
+  border: #838c48 !important;
+}
+
+.left,
+.right,
+.btn1,
+.btn2,
+.btn3 {
+  transition: background-color 0.3s ease;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.left:hover,
+.right:hover,
+.btn1:hover,
+.btn2:hover,
+.btn3:hover {
+  background-color: #838c48;
+  color: white;
+  border: transparent;
+}
+
+.home {
+  transition: background-color 0.3s ease;
+}
+
+.home:hover {
+  color: #000;
+}
+
+.content figure {
+  background: #838c48;
+  width: 300px;
+  height: 200px;
+  border: 1px solid #fff;
+}
+
+.content figure img {
+  width: 300px;
+  height: 200px;
+  opacity: 1;
+  -webkit-transform: rotateY(-180deg);
+  transform: rotateY(-180deg);
+  transition: var(--wdtBaseTransition);
+}
+
+.content figure:hover img {
+  opacity: 0.3;
+}
+
+.content figcaption a {
+  width: 100%;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  font-family: verdana;
+  font-size: 10pt;
+  border: 3px solid white;
+}
+
+.content figcaption {
+  width: 100%;
+  color: #000;
+  text-align: center;
+  text-decoration: none;
+  font-family: verdana;
+  position: relative;
+  bottom: 50%;
+  opacity: 0;
+}
+
+.content figure:hover figcaption,
+figcaption a {
+  bottom: 55%;
+  opacity: 1;
+}
+
+.content figure:hover {
+  border: 1px solid #606dbc;
+}
+
+.content figcaption a:hover {
+  background-color: white;
+  color: #838c48;
+  font-weight: bold;
+}
